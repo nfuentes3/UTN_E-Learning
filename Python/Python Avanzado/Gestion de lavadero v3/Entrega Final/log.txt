@@ -1,0 +1,19 @@
+2025-02-06 20:16:21 - Servidor inicado. Conectado a puerto 8080.
+2025-02-06 20:16:34 - Nueva orden generada: Cliente: asdasadsad - 23123213.
+2025-02-06 20:17:59 - Se elimino la orden número: 3.
+2025-02-06 20:18:14 - Programa cerrado.
+2025-02-07 19:38:19 - Servidor inicado. Conectado a puerto 8080.
+2025-02-07 19:38:28 - Se elimino la orden número: 4.
+2025-02-07 19:38:36 - Nueva orden generada: Cliente: dasdads - 12312312.
+2025-02-07 19:38:42 - Programa cerrado.
+2025-02-07 19:39:30 - Servidor inicado. Conectado a puerto 8080.
+2025-02-07 19:39:32 - Programa cerrado.
+2025-02-07 19:51:21 - Servidor inicado. Conectado a puerto 8080.
+2025-02-07 19:51:29 - Se elimino la orden número: 9.
+2025-02-07 19:51:35 - Programa cerrado.
+2025-02-07 21:03:21 - Servidor inicado. Conectado a puerto 8080.
+2025-02-07 21:04:06 - Se elimino la orden número: 22.
+2025-02-07 21:04:12 - Nueva orden generada: Cliente: asdasdsa - 123123.
+2025-04-06 12:25:06 - Servidor inicado. Conectado a puerto 8080.
+2025-04-06 12:28:26 - Se cerro el programa debido a un error.
+2025-04-06 12:28:26 - Programa cerrado.
